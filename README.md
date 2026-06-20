@@ -1,7 +1,7 @@
 ### Giftable.GG
 Personal Project for Dota 2 community
 
-![BANNER](https://github.com/itzmaiku44/Giftable.GG/blob/main/Banner.jpg)
+![BANNER](https://github.com/itzmaiku44/Giftable.GG/blob/main/Feedback/image_2026-06-20_165315523.png)
 ------------------------------------------------
 ### **Thank You for Testing the First Prototype!**
 
