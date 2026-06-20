@@ -1,8 +1,9 @@
 ### Giftable.GG
 Personal Project for Dota 2 community
 
+![BANNER](https://github.com/itzmaiku44/Giftable.GG/blob/main/Banner.jpg)
 ------------------------------------------------
-## **Thank You for Testing the First Prototype!**
+### **Thank You for Testing the First Prototype!**
 
 First of all, thank you for taking the time to test Giftable.GG — Your directory for giftable Dota 2 item marketplace. Your feedback is incredibly valuable and will help shape the future of the platform.
 
